@@ -2,7 +2,7 @@
 Project-Business-Insights-360 (Data Analyst Challenge at Codebasics.io)
 
 Link to my Dashboard
-🔷Novypro Dashboard - https://www.novypro.com/project/business-insights-360-4
+🔷https://mavenanalytics.io/project/26383
 
 🔷Power BI Service -https://app.powerbi.com/groups/me/reports/baf6df26-9c30-46d4-a610-920f7953068b/bef85b9ab804e1bd87b7?experience=power-bi
 
